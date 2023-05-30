@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import './App.css'
-import ShapeFalling from './components/ShapeFalling'
 import Nav from './components/Nav'
 
 
@@ -10,8 +9,6 @@ function App() {
   return (
     <>
       <Nav></Nav>
-      <ShapeFalling>
-      </ShapeFalling>
     </>
   )
 }
