@@ -1,0 +1,23 @@
+{
+  "name": "live-portfolio",
+  "version": "1.0.0",
+  "description": "Repository for www.davejonesuk.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJ-86/Live-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJ-86/Live-Portfolio/issues"
+  },
+  "homepage": "https://github.com/DJ-86/Live-Portfolio#readme",
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
