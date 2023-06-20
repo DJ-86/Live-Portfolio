@@ -4,9 +4,9 @@ const About = () => {
         <div>
             <div>
                 <h2>Who am i?</h2>
-                <p>I'm a guy in my mid 30's that decided to change my career during lockdown. I quit my job working in a freezer and began researching careers that one could self-teach. I enjoy problem solving and as a gamer, already spend loads of time on my PC so the path of becoming a developer was appealing. Looking back, I realise I had very little idea of what the scope of being a developer truly was.
+                <p>I'm a guy in my mid 30's that decided to change my career during lockdown. I quit my job working in a freezer and decided to try and dedicate myself to becoming a developer.
 
-After bumbling my way through more than a few tutorials, I was becoming frustrated with my progress - I felt like I was learning syntax but not doing much problem solving. I read some advice to the effect of "Build things and follow less tutorials". By that time, I had learned the basics of HTML and CSS and had been struggling with JavaScript for a while but thought I'd give it a go, so I built my house calculator. I knew it was basic but I was immensely proud of putting theory into practice.</p>
+My thought process behind the site is to showcase but also keep a record of thing's I've created and the steps I've taken to get to my current level </p>
             </div>
             <div>
                 <h2>WHAT I'M DOING</h2>
@@ -16,7 +16,7 @@ I'm building things! What things? I'm not entirely sure yet but I've been enjoyi
             <div>
                 <h2>WHERE I AIM TO BE</h2>
                 <p>
-My goal right now is simple. To become employed as a developer. It is a large goal but one I will continue to pursue until I achieve it.</p>
+My goal right now is simple. To become a better developer</p>
             </div>
         </div>
         </>
